@@ -4680,7 +4680,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
+		(property "Footprint" "PCM_marbastlib-various:SW_SKHLLCA010"
 			(at 254 144.78 0)
 			(effects
 				(font
